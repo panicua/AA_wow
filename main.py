@@ -2,9 +2,6 @@ import keyboard
 import time
 import random
 from key_check import key_check
-from gspread import service_account_from_dict
-from configparser import ConfigParser
-import wmi
 from camera_move import MouseMoveTo
 
 
